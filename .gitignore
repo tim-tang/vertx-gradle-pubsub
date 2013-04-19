@@ -25,6 +25,7 @@ bin/
 
 # Modules
 mods/
+build/
 
 # Log
 stacktrace.log
