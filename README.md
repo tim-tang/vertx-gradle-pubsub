@@ -14,5 +14,9 @@
 
 > Server will start at port 8080, visit <http://localhost:8080>
 
+## Reference
+
 - [Vertx.io Eclipse dev environment](http://timtang.me/blog/2013/04/13/vertx-eclipse-dev/)
 - [Vertx.io Introduction](http://timtang.me/blog/2013/04/18/vertx-pubsub/)
+
+> More information about gradle, please refer: <https://github.com/tim-tang/vertx-gradle-pubsub/blob/master/build.gradle>

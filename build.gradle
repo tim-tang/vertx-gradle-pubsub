@@ -85,7 +85,7 @@ def configurePom(def pom) {
     }
 
     scm {
-      url 'url to your repo - e.g. github repo url'
+      url 'https://github.com/tim-tang/vertx-gradle-pubsub'
     }
 
     licenses {
