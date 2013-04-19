@@ -1,3 +1,4 @@
 {
-  "main":"me.timtang.server.VertxFeedBenchmark"
+  "main":"me.timtang.server.VertxFeedApplication",
+  "preserve-cwd":true
 }
